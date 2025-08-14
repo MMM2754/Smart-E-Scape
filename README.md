@@ -35,6 +35,3 @@ Smart E-Scape delivers:
 ---
 
 
-
-## 🔖 Tags
-`#EnterpriseArchitecture` `#TOGAF` `#AI` `#Blockchain` `#Sustainability` `#DigitalTourism` `#InclusiveDesign`
